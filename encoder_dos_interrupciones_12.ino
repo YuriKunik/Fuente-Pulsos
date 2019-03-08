@@ -303,7 +303,7 @@ void loop() {
 
   // control interno o externo
 
-  digitalWrite(28, LOW);
+  //digitalWrite(28, LOW);
 
 
 
